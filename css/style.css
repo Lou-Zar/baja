@@ -16,7 +16,7 @@ html{
 	padding:0;
 	margin:0;
 	}
-	
+
 body{
 	padding:0;
 	margin:0;
@@ -24,7 +24,7 @@ body{
 	background-attachment:fixed;
 	background-size:cover;
 	background-repeat:repeat-x;
-	}	
+	}
 
 video{
 	position: fixed;
@@ -37,7 +37,7 @@ video{
 	background-position: center center;
 	margin-left: auto;
 	margin-right: auto;
-	}	
+	}
 
 #vimeovid{
 	width:820px; height:450px;
@@ -69,7 +69,7 @@ video{
 	font-family: "Raleway Regular";
 	font-size: 24px;
 	}
-	
+
 
 .btnvermas{
 	width: 200px;
@@ -80,8 +80,8 @@ video{
 	font-family: "Raleway Regular";
 	font-size: 24px;
     border:none;
-	}	
-	
+	}
+
 .btnvermas0{
 	width: 200px;
 	height: 60px;
@@ -91,10 +91,10 @@ video{
 	font-family: "Raleway Regular";
 	font-size: 24px;
     border:none;
-	}	
-		
-	
-	
+	}
+
+
+
 .btnvermas001{
 	width: 150px;
 	height: 50px;
@@ -104,10 +104,10 @@ video{
 	font-family: "Raleway Regular";
 	font-size: 18px;
 	border: none;
-	}	
-	
-	
-	
+	}
+
+
+
 .btnvermas001:hover{
 	width: 150px;
 	height: 50px;
@@ -117,9 +117,9 @@ video{
 	font-family: "Raleway Regular";
 	font-size: 18px;
 	border: none;
-	}	
-		
-	
+	}
+
+
 .btnvermas005{
 	width: 150px;
 	height: 50px;
@@ -140,7 +140,7 @@ video{
 	font-family: "Raleway Regular";
 	font-size: 24px;
     border:none;
-	}	
+	}
 .btnverproducto002{
 	width: 100px;
 	height: 60px;
@@ -150,7 +150,7 @@ video{
 	font-family: "Raleway Regular";
 	font-size: 24px;
     border:none;
-	}	
+	}
 
 
 
@@ -171,7 +171,7 @@ video{
 	background-size: cover;
 	position: relative;
 	background-color: rgba(255,255,255,0.9);
-	}	
+	}
 #mainmenuleft{
 	width: 100%;
 	height: 55px;
@@ -207,7 +207,7 @@ video{
 	 -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    user-select: none; 	
+    user-select: none;
 }
 
 
@@ -224,7 +224,7 @@ video{
 .toggle-nav {
     display:none;
 }
- 
+
 /*----- Menu -----*/
 @media screen and (min-width: 1148px) {
     .menu {
@@ -237,12 +237,12 @@ video{
 	z-index:900;
     }
 }
- 
+
 .menu ul {
     display:inline-block;
 	 text-decoration:none;
 }
- 
+
 .menu li {
 	margin: 0px 50px 0px 0px;
 	float: left;
@@ -251,13 +251,13 @@ video{
 	font-size: 16px;
 	line-height: 25px;
 	color: #FFF;
-	
+
 }
- 
+
 .menu li:last-child {
- 
+
 }
- 
+
 .menu a {
 	font-family: "Lato Thin";
 	text-shadow: 0px 1px 10px rgba(255,255,255,0.5);
@@ -267,20 +267,20 @@ video{
 	font-weight: bold;
 	transition: color linear 0.15s;
 }
- 
+
 .menu a:hover, .menu .current-item a {
 	text-decoration: blink;
 	color: #333333;
 	font-size: 20px;
 	background-color: #fc3;
 }
- 
+
 /*----- Search -----*/
 .search-form {
     float:right;
     display:inline-block;
 }
- 
+
 .search-form input {
     width:200px;
     height:30px;
@@ -289,7 +289,7 @@ video{
     border-radius:2px 0px 0px 2px;
     font-size:13px;
 }
- 
+
 .search-form button {
     height:30px;
     padding:0px 7px;
@@ -302,14 +302,14 @@ video{
     color:#fff;
 }
 
-/*MENU END*/ 
+/*MENU END*/
 
 
 
 
 
 
-	
+
 /*TOP END*/
 
 
@@ -321,7 +321,7 @@ video{
 	position: relative;
 	background: #fff;
 	}
-	
+
 #topin{
 	width: 80%;
 	height: 60px;
@@ -329,8 +329,8 @@ video{
 	background: #fff;
 	margin-left: auto;
 	margin-right: auto;
-	}	
-	
+	}
+
 #banner{
 	width: 100%;
 	height: 950px;
@@ -341,7 +341,7 @@ video{
 	background-position: center center;
 	background-size: cover;
 	}
-	
+
 #bannerin{
 	width: 80%;
 	height: 200px;
@@ -352,7 +352,7 @@ video{
 	text-align: center;
 	top: 200px;
 	z-index: 600;
-	}		
+	}
 
 
 
@@ -360,7 +360,7 @@ video{
 
 
 
-	
+
 
 
 
@@ -376,8 +376,8 @@ video{
 	background-attachment: scroll;
 	background-repeat: no-repeat;
 	background-size: cover;
-	}	
-	
+	}
+
 #promocionestitulo{
 	width: 100%;
 	height: 100px;
@@ -396,9 +396,9 @@ video{
 	font-style: normal;
 	text-align: center;
 	float: none;
-	}		
-	
-	
+	}
+
+
 	#marcas{
 	width: 100%;
 	height: 600px;
@@ -412,8 +412,8 @@ video{
 	background-size: cover;
 	float: none;
 	background-color: #FFF;
-	}	
-	
+	}
+
 	#proteccion{
 	width: 100%;
 	height: 250px;
@@ -428,10 +428,10 @@ video{
 	float: none;
 	background-color: #fff;
 
-	}	
+	}
 
 
-	
+
 	#catalogotext3{
 	width: 90%;
 	position: relative;
@@ -450,10 +450,10 @@ video{
 	font-size: 60px;
 	text-align: center;
 	color: #FC3;
-	}		
-	
+	}
 
-	
+
+
 
 	#catalogo{
 	width: 100%;
@@ -472,9 +472,9 @@ video{
 	border-bottom-style: solid;
 	border-bottom-color: #FC3;
 
-	}	
-	
-	
+	}
+
+
 	#greycolorbg{
 	width: 100%;
 	height: 50px;
@@ -487,7 +487,7 @@ video{
 	background-repeat: no-repeat;
 	background-size: cover;
 	float: none;
-	}		
+	}
 
 
 #ligas{
@@ -506,7 +506,7 @@ video{
 	border-bottom-width: 5px;
 	border-bottom-style: solid;
 	border-bottom-color: #FC3;
-	}	
+	}
 
 
 
@@ -527,7 +527,7 @@ video{
 	text-align: center;
 	font-size: 36px;
 	font-family: Tahoma, Geneva, sans-serif;
-	}		
+	}
 		#catalogoin2{
 	width: 30%;
 	height: 200px;
@@ -543,8 +543,8 @@ video{
 	background-color: #FC3;
 	margin-right: 5%;
 	margin-left: 1%;
-	}	
-	
+	}
+
 	#catalogoin2:hover{
 	width: 30%;
 	height: 200px;
@@ -560,10 +560,10 @@ video{
 	background-color: #FBE653;
 	margin-right: 5%;
 	margin-left: 1%;
-	}	
-	
-	
-	
+	}
+
+
+
 	.pulsate {
 	-webkit-animation: pulsate 2s ease-out;
 	-webkit-animation-iteration-count: infinite;
@@ -571,18 +571,18 @@ video{
 	font-size: 40px;
 }
 @-webkit-keyframes pulsate {
-    0% { 
+    0% {
         opacity: 0.5;
     }
-    50% { 
+    50% {
         opacity: 1.0;
     }
-    110% { 
+    110% {
         opacity: 0.5;
     }
 }
-	
-	
+
+
 		#catalogotext{
 	width: 80%;
 	height: auto;
@@ -602,9 +602,9 @@ video{
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: xx-large;
 	text-align: center;
-	}		
-	
-	
+	}
+
+
 	#catalogotext2{
 	width: 90%;
 	height: auto;
@@ -625,9 +625,9 @@ video{
 	text-align: center;
 	color: #FC3;
 	}
-	
-	
-	
+
+
+
 	#catalogotext4{
 	width: 90%;
 	height: auto;
@@ -647,23 +647,23 @@ video{
 	font-size: 60px;
 	text-align: center;
 	color: #1d1d1d;
-	}					
-	
-	
+	}
+
+
 #tour{
 	width:100%;
 	height:500px;
 	z-index:800;
 	position:relative;
 	float:none;
-	}	
-	
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
+
 	/*TIENDAS*/
 #tiendas{
 	width: 100%;
@@ -675,9 +675,9 @@ video{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
-	}	
-	
-	
+	}
+
+
 	#restaurantesin{
 	width: 90%;
 	height: 550px;
@@ -689,8 +689,8 @@ video{
 	text-align: center;
 	top: 180px;
 
-	}	
-	
+	}
+
 		#entretenimientoin{
 	width: 90%;
 	height: 300px;
@@ -703,9 +703,9 @@ video{
 	top: 100px;
 
 	}
-	
-	
-		
+
+
+
 	#tiendasin{
 	width: 90%;
 	height: 280px;
@@ -720,9 +720,9 @@ video{
 	font-size: 50px;
 	color: #666;
 
-	}	
-	
-	
+	}
+
+
 	#tiendasin2{
 	width: 90%;
 	height: 180px;
@@ -737,9 +737,9 @@ video{
 	font-size: 50px;
 	color: #666;
 
-	}	
-	
-	
+	}
+
+
     #vermasin{
 	width: 90%;
 	height: 100px;
@@ -754,8 +754,8 @@ video{
 	font-size: 50px;
 	color: #666;
 
-	}	
-	
+	}
+
 	    #tituloin{
 	width: 90%;
 	height: 200px;
@@ -770,8 +770,8 @@ video{
 	font-size: 50px;
 	color: #666;
 
-	}	
-	
+	}
+
 		    #tituloinproductos{
 	width: 90%;
 	height: 250px;
@@ -786,11 +786,11 @@ video{
 	font-size: 50px;
 	color: #666;
 
-	}	
-	
-	
-	
-	
+	}
+
+
+
+
 			    #productosvisuales{
 	width: 50%;
 	height: 250px;
@@ -805,13 +805,13 @@ video{
 	font-size: 50px;
 	color: #666;
 
-	}	
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
 				    #productosequipoespecial{
 	width: 70%;
 	height: 250px;
@@ -827,12 +827,12 @@ video{
 	color: #666;
 
 	}
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
 			    #tituloinproductos002{
 	width: 90%;
 	height: 40px;
@@ -847,10 +847,10 @@ video{
 	font-size: 50px;
 	color: #666;
 
-	}	
-	
-	
-	
+	}
+
+
+
 	#tituloinacreditacionesyconsultoria{
 	width: 90%;
 	height: 120px;
@@ -864,9 +864,9 @@ video{
 	font-size: 40px;
 	color: #333;
 
-	}	
-	
-	
+	}
+
+
 		#tituloinacreditacionesyconsultoria2{
 	width: 90%;
 	height: auto;
@@ -881,13 +881,13 @@ video{
 	font-size: 22px;
 	color: #000;
 
-	}		
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
 	#tituloinacreditaciones3{
 	width: 90%;
 	height: auto;
@@ -903,7 +903,7 @@ video{
 	color: #000;
 
 	}
-	
+
 		#valoresdiv{
 	width: 90%;
 	height: 500px;
@@ -920,8 +920,8 @@ video{
 	color: #000;
 
 	}
-	
-	
+
+
 	#valoresdiv02{
 	width: 90%;
 	height: 280px;
@@ -937,8 +937,8 @@ video{
 	font-size: 20px;
 	color: #000;
 
-	}	
-			
+	}
+
 
 	#carta{
 	width: 90%;
@@ -954,12 +954,12 @@ video{
 	font-size: 20px;
 	color: #000;
 
-	}			
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
 	#acercade{
 	width: 90%;
 	height: auto;
@@ -974,10 +974,10 @@ video{
 	font-size: 25px;
 	color: #000;
 
-	}		
-	
-	
-	
+	}
+
+
+
 	    #vermasin2{
 	width: 100%;
 	height: 100px;
@@ -992,10 +992,10 @@ video{
 	font-size: 50px;
 	color: #666;
 
-	}	
-	
-	
-	
+	}
+
+
+
 		#tiendasin3{
 	width: 97%;
 	height: 600px;
@@ -1012,13 +1012,13 @@ video{
 	overflow: auto;
 	margin-top: 20px;
 
-	}	
-	
-	
-	
-	
-	
-		
+	}
+
+
+
+
+
+
 		#productosdivin{
 	width: 90%;
 	height: 300px;
@@ -1035,8 +1035,8 @@ video{
 	overflow: auto;
 	margin-top: 100px;
 
-	}	
-	
+	}
+
 			#productosdivin2{
 	width: 90%;
 	height: 310px;
@@ -1054,8 +1054,8 @@ video{
 	border-top-style: solid;
 	border-top-color: #FC3;
 
-	}	
-	
+	}
+
 
 	#acreditacionesyconsultoriasdivin2{
 	width: 90%;
@@ -1072,11 +1072,11 @@ video{
 	overflow: auto;
 	background-color: #FFF;
 
-	}	
-	
-	
-	
-	
+	}
+
+
+
+
 	#acreditacionesyconsultoriasdivin3{
 	width: 100%;
 	height: 500px;
@@ -1095,8 +1095,8 @@ video{
 	background-size: cover;
 	background-position: center center;
 
-	}		
-	
+	}
+
 	#acreditacionesdiv{
 	width: 100%;
 	height: 300px;
@@ -1115,9 +1115,9 @@ video{
 	background-size: cover;
 	background-position: center center;
 
-	}			
-		
-		
+	}
+
+
 	#aboutbs{
 	width: 100%;
 	height: auto;
@@ -1137,7 +1137,7 @@ video{
 	background-size: cover;
 	background-position: center center;
 
-	}	
+	}
 	#valoresbox{
 	width: 100%;
 	height: auto;
@@ -1156,11 +1156,11 @@ video{
 	background-size: cover;
 	background-position: center center;
 
-	}					
-	
-	
-	
-	
+	}
+
+
+
+
 		#tiendabox{
 	width: 20%;
 	height: auto;
@@ -1176,7 +1176,7 @@ video{
 	margin-right: auto;
 	font-weight: bolder;
 
-	}	
+	}
 
 
 	#consultoriabox{
@@ -1200,9 +1200,9 @@ video{
 	background-attachment: scroll;
 	background-repeat: no-repeat;
 	background-position: center center;
-	}	
-	
-	
+	}
+
+
 
 
 	#consultoriabox:hover{
@@ -1226,9 +1226,9 @@ video{
 	background-attachment: scroll;
 	background-repeat: no-repeat;
 	background-position: center center;
-	}		
-	
-	
+	}
+
+
 
 
 
@@ -1254,9 +1254,9 @@ video{
 	background-attachment: scroll;
 	background-repeat: no-repeat;
 	background-position: center center;
-	}	
-	
-	
+	}
+
+
 
 
 	#capacitacionescertificadasbox:hover{
@@ -1280,16 +1280,16 @@ video{
 	background-attachment: scroll;
 	background-repeat: no-repeat;
 	background-position: center center;
-	}		
-	
+	}
 
 
 
 
 
-	
-	
-	
+
+
+
+
 	#acreditacionesbox{
 	width: 46%;
 	height: 300px;
@@ -1313,7 +1313,7 @@ video{
 	background-position: center center;
 
 	}
-	
+
 		#acreditacionesbox:hover{
 	width: 46%;
 	height: 300px;
@@ -1335,15 +1335,15 @@ video{
 	background-repeat: no-repeat;
 	background-position: center center;
 
-	}	
-	
-	
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
+
+
 		#leanbox{
 	width: 46%;
 	height: 300px;
@@ -1367,7 +1367,7 @@ video{
 	background-position: center center;
 
 	}
-	
+
 	#leanbox:hover{
 	width: 46%;
 	height: 300px;
@@ -1389,11 +1389,11 @@ video{
 	background-repeat: no-repeat;
 	background-position: center center;
 
-	}	
-	
-	
-	
-	
+	}
+
+
+
+
 	#logosbox{
 	width: 46%;
 	height: auto;
@@ -1414,17 +1414,17 @@ video{
 	background-repeat: no-repeat;
 	background-position: center center;
 
-	}	
-	
-		
-	
-	
-	
+	}
 
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
 	#productobox1{
 	width: 95%;
 	height: 150px;
@@ -1441,8 +1441,8 @@ video{
 	font-weight: bolder;
 
 	}
-	
-	
+
+
 	#acreditacionesyconsultoriasboxin{
 	width: 95%;
 	height: 150px;
@@ -1460,8 +1460,8 @@ video{
 	font-weight: bolder;
 
 	}
-	
-	
+
+
 	#productobox2{
 	width: 95%;
 	height: 50px;
@@ -1478,8 +1478,8 @@ video{
 	font-weight: bolder;
 	padding-top: 15px;
 
-	}	
-	
+	}
+
 		#productobox2:hover{
 	width: 95%;
 	height: 50px;
@@ -1497,10 +1497,10 @@ video{
 	font-weight: bolder;
 	padding-top: 15px;
 
-	}	
-	
-	
-		
+	}
+
+
+
 		#tiendaboxtxin{
 	width: 90%;
 	height: 280px;
@@ -1517,9 +1517,9 @@ video{
 	margin-right: auto;
 	font-weight: bolder;
 
-	}	
-	
-	
+	}
+
+
 #iconoboxtxin{
 	width: 90%;
 	height: 140px;
@@ -1536,11 +1536,11 @@ video{
 	margin-right: auto;
 	border:none;
 	font-weight: bolder;
-}		
+}
 
 
-	
-			
+
+
 		#tiendaboxtxin2{
 	width: 90%;
 	height: 80px;
@@ -1557,14 +1557,14 @@ video{
 	margin-right: auto;
 	font-weight: bolder;
 
-	}		
-	
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
+
 	#proteccionbox{
 	width: 14.1%;
 	height: auto;
@@ -1581,7 +1581,7 @@ video{
 	border: none;
 	font-weight: bolder;
 
-	}	
+	}
 		#proteccionbox:hover{
 	width: 14%;
 	height: auto;
@@ -1597,12 +1597,12 @@ video{
 	margin-right: auto;
 	font-weight: bolder;
 	border: medium solid #FC3;
-	}	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
 		#visualbox{
 	width: 33%;
 	height: auto;
@@ -1619,7 +1619,7 @@ video{
 	border: none;
 	font-weight: bolder;
 
-	}	
+	}
 		#visualbox:hover{
 	width: 32.5%;
 	height: auto;
@@ -1635,14 +1635,14 @@ video{
 	margin-right: auto;
 	font-weight: bolder;
 	border: medium solid #FC3;
-	}	
-	
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
+
 	#equiposbox{
 	width: 24.8%;
 	height: auto;
@@ -1658,8 +1658,8 @@ video{
 	margin-right: auto;
 	border: none;
 	font-weight: bolder;
-	}	
-	
+	}
+
 		#equiposbox:hover{
 	width: 24.8%;
 	height: auto;
@@ -1675,20 +1675,20 @@ video{
 	margin-right: auto;
 	font-weight: bolder;
 	border: medium solid #FC3;
-	}	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
+	}
 
-		
+
+
+
+
+
+
+
+
+
+
+
+
 		#proteccionboxtxin{
 	width: 90%;
 	height: 280px;
@@ -1705,8 +1705,8 @@ video{
 	margin-right: auto;
 	font-weight: bolder;
 
-	}	
-			
+	}
+
 		#proteccionboxtxin2{
 	width: 90%;
 	height: 80px;
@@ -1723,16 +1723,16 @@ video{
 	margin-right: auto;
 	font-weight: bolder;
 
-	}		
-		
-	
-	
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
+
+
+
 #tiendastitulo{
 	width: 95%;
 	height: 70px;
@@ -1751,9 +1751,9 @@ video{
 	font-style: normal;
 	text-align: center;
 	float: none;
-	}		
-	
-	
+	}
+
+
 
 
 #boxtienda1{
@@ -1777,8 +1777,8 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}	
-	
+	}
+
 #boxtienda2{
 	width: 200px;
 	height: 200px;
@@ -1800,9 +1800,9 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}		
-	
-	
+	}
+
+
 #boxtienda3{
 	width: 200px;
 	height: 200px;
@@ -1823,11 +1823,11 @@ video{
 	-webkit-transition: background-position 2s ease-in;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
-	transition: background-position 2s ease-in;	
+	transition: background-position 2s ease-in;
 	}
-	
-	
-		
+
+
+
 #boxtienda4{
 	width: 200px;
 	height: 200px;
@@ -1849,10 +1849,10 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	
-	
-	}	
-	
+
+
+	}
+
 #boxtienda5{
 	width: 200px;
 	height: 200px;
@@ -1874,11 +1874,11 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	
-	
+
+
 	}
-	
-	
+
+
 
 #boxtienda6{
 	width: 200px;
@@ -1901,8 +1901,8 @@ video{
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top:20px;
-	
-	}		
+
+	}
 
 
 
@@ -1928,8 +1928,8 @@ video{
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top:20px;
-	
-	}		
+
+	}
 
 
 #boxtienda8{
@@ -1953,8 +1953,8 @@ video{
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top:20px;
-	
-	}		
+
+	}
 
 
 
@@ -1979,8 +1979,8 @@ video{
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top: 20px;
-	
-	}		
+
+	}
 
 
 
@@ -1996,9 +1996,9 @@ video{
 	font-family: "Raleway Regular";
 	color: #666;
 	float: left;
-	font-size: 24px; 
+	font-size: 24px;
    border-radius:200px;
- 
+
 	background-size: cover;
 	background-position: center center;
 	-webkit-transition: all 1s ease-in-out;
@@ -2006,8 +2006,8 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}		
-	
+	}
+
 
 
 
@@ -2026,8 +2026,8 @@ video{
 	font-size: 24px;
 	margin-top:20px;
    border-radius:200px;
- 
-	
+
+
 	background-size: cover;
 	background-position: center center;
 	-webkit-transition: all 1s ease-in-out;
@@ -2035,9 +2035,9 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	
-	
-	}	
+
+
+	}
 
 
 #boxtienda12{
@@ -2061,8 +2061,8 @@ video{
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top: 20px;
-	
-	}	
+
+	}
 
 
 
@@ -2090,8 +2090,8 @@ video{
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top: 20px;
-	
-	}	
+
+	}
 
 #boxtienda14{
 	width: 200px;
@@ -2113,9 +2113,9 @@ video{
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top: 20px;
-	
-	}	
-	
+
+	}
+
 	#boxtienda15{
 	width: 200px;
 	height: 200px;
@@ -2137,9 +2137,9 @@ video{
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top: 20px;
-	
-	}		
-	
+
+	}
+
 
 #boxtienda16{
 	width: 200px;
@@ -2162,12 +2162,12 @@ video{
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top: 20px;
-	
-	}		
+
+	}
 
 
 
-	
+
 	#boxtiendaup{
 	width: 100%;
 	height: 300px;
@@ -2180,10 +2180,10 @@ video{
 	background-size: cover;
 	background-position: center center;
 
-	
-	}	
-	
-	
+
+	}
+
+
 #boxtiendaupin{
 	width: 88%;
 	height: 100px;
@@ -2198,9 +2198,9 @@ video{
 	text-align: center;
 	font-size: 20px;
 	text-shadow: #000 1px 1px 20px;
-	}	
-	
-	
+	}
+
+
 
 
 
@@ -2223,17 +2223,17 @@ video{
 	padding-top: 5px;
 	padding-left: 5px;
 	padding-right: 5px;
-	
 
-	
-	}	
 
-	
-/*TIENDAS END*/		
-	
-	
-	
-	
+
+	}
+
+
+/*TIENDAS END*/
+
+
+
+
 #div1in{
 	width: 80%;
 	height: 250px;
@@ -2245,7 +2245,7 @@ video{
 	font-family: "Raleway Regular";
 	color: #666;
 	font-size: 24px;
-	}		
+	}
 
 
 #box1{
@@ -2263,7 +2263,7 @@ video{
 
 	transform:skew(0deg,-5deg);
 -ms-transform:skew(0deg,-10deg);
--webkit-transform:skew(0deg,-5deg); 
+-webkit-transform:skew(0deg,-5deg);
 
 	background-size: cover;
 	background-position: left center;
@@ -2272,8 +2272,8 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}	
-	
+	}
+
 #box2{
 	width: 300px;
 	height: 300px;
@@ -2289,7 +2289,7 @@ video{
 
 	transform:skew(0deg,-5deg);
 -ms-transform:skew(0deg,-10deg);
--webkit-transform:skew(0deg,-5deg); 
+-webkit-transform:skew(0deg,-5deg);
 
 	background-size: cover;
 	background-position: center center;
@@ -2298,9 +2298,9 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}		
-	
-	
+	}
+
+
 #box3{
 	width: 23%;
 	height: 300px;
@@ -2319,8 +2319,8 @@ video{
 	-webkit-transition: background-position 2s ease-in;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
-	transition: background-position 2s ease-in;	
-	}	
+	transition: background-position 2s ease-in;
+	}
 #box4{
 	width: 300px;
 	height: 300px;
@@ -2333,11 +2333,11 @@ video{
 	color: #666;
 	float: left;
 	font-size: 24px;
-	
+
 	transform:skew(0deg,-5deg);
 -ms-transform:skew(0deg,-10deg);
--webkit-transform:skew(0deg,-5deg); 
-	
+-webkit-transform:skew(0deg,-5deg);
+
 	background-size: cover;
 	background-position: center center;
 	-webkit-transition: all 1s ease-in-out;
@@ -2345,10 +2345,10 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	
-	
-	}	
-	
+
+
+	}
+
 #box5{
 	width: 300px;
 	height: 300px;
@@ -2371,11 +2371,11 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	
-	
+
+
 	}
-	
-	
+
+
 
 #box6{
 	width: 300px;
@@ -2399,15 +2399,15 @@ video{
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	
-	
-	}		
 
 
-	
-	
-	
-			
+	}
+
+
+
+
+
+
 
 
 #boxup{
@@ -2421,12 +2421,12 @@ video{
 	font-size: 24px;
 	background-size: cover;
 	background-position: center center;
-	
+
 	box-shadow:#000 1px 1px 20px;
-	
-	}	
-	
-	
+
+	}
+
+
 #boxupin{
 	width: 88%;
 	height: 100px;
@@ -2444,9 +2444,9 @@ video{
 	text-align: center;
 	font-size: 22px;
 	text-shadow: #000 1px 1px 20px;
-	}	
-	
-	
+	}
+
+
 
 
 
@@ -2469,15 +2469,15 @@ video{
 	padding-top: 5px;
 	padding-left: 5px;
 	padding-right: 5px;
-	
-
-	
-	}	
 
 
-	
-	
-		
+
+	}
+
+
+
+
+
 
 
 /*BOX HOVER*/
@@ -2496,8 +2496,8 @@ video{
 	font-size: 24px;
 	background-size: 200%;
 	background-position: center center;
-	}	
-	
+	}
+
 #box2:hover{
 	width: 300px;
 	height: 300px;
@@ -2512,7 +2512,7 @@ video{
 	font-size: 24px;
 	background-size: 200%;
 	background-position: right center;
-	}		
+	}
 #box3:hover{
 	width: 23%;
 	height: 300px;
@@ -2527,8 +2527,8 @@ video{
 	font-size: 24px;
 	background-size: 200%;
 	background-position: right center;
-	
-	}	
+
+	}
 #box4:hover{
 	width: 300px;
 	height: 300px;
@@ -2544,10 +2544,10 @@ video{
 	background-size: 150%;
 	background-position: right center;
 
-	
-	}	
-	
-	
+
+	}
+
+
 #box5:hover{
 	width: 300px;
 	height: 300px;
@@ -2562,8 +2562,8 @@ video{
 	font-size: 24px;
 	background-size: 150%;
 	background-position: right center;
-	}		
-	
+	}
+
 #box6:hover{
 	width: 300px;
 	height: 300px;
@@ -2578,13 +2578,13 @@ video{
 	font-size: 24px;
 	background-size: 150%;
 	background-position: right center;
-	}		
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
 #boxup:hover{
 	width: 100%;
 	height: 300px;
@@ -2597,9 +2597,9 @@ video{
 	background-size: cover;
 	background-position: center center;
 	}
-	
-	
-	
+
+
+
 #boxupin:hover{
 	width: 88%;
 	height: 100px;
@@ -2614,7 +2614,7 @@ video{
 	text-align: center;
 	font-size: 22px;
 	text-shadow: #000 1px 1px 20px;
-	}				
+	}
 /*BOX HOVER END*/
 
 
@@ -2637,8 +2637,8 @@ video{
 	background-size: cover;
 	z-index: 600;
 	float: none;
-	}	
-	
+	}
+
 
 #servicios{
 	width: 100%;
@@ -2652,11 +2652,11 @@ video{
 	background-size: cover;
 	z-index: 600;
 	float: none;
-	}		
-	
-	
-	
-	
+	}
+
+
+
+
 #servicesin{
 	width: 80%;
 	height: auto;
@@ -2669,7 +2669,7 @@ video{
 	color: #666666;
 	font-size: 30px;
 	text-shadow: none;
-	}	
+	}
 
 
 #identificacionriesgos{
@@ -2692,8 +2692,8 @@ video{
 	transition: all .2s ease-in;
 	text-shadow: none;
 
-	}	
-	
+	}
+
 #identificacionriesgos:hover{
 	width: 20%;
 	height: 650px;
@@ -2710,9 +2710,9 @@ video{
 	font-size: 30px;
 	text-shadow: none;
 
-	}	
-	
-	
+	}
+
+
 
 #estudioycapacitacion{
 	width: 20%;
@@ -2734,7 +2734,7 @@ video{
 	-webkit-transition: all .2s ease-in;
 	transition: all .2s ease-in;
 
-	}	
+	}
 
 
 #estudioycapacitacion:hover{
@@ -2782,7 +2782,7 @@ video{
 	-webkit-transition: all .2s ease-in;
 	transition: all .2s ease-in;
 
-	}	
+	}
 
 #controlingenieria:hover{
 	width: 20%;
@@ -2804,7 +2804,7 @@ video{
 	-webkit-transition: all .2s ease-in;
 	transition: all .2s ease-in;
 
-	}	
+	}
 
 
 
@@ -2829,8 +2829,8 @@ video{
 	transition: all .2s ease-in;
 	background-image: url(../img/proteccionbg2.jpg);
 
-	}	
-	
+	}
+
 #equipoproteccionpersonal:hover{
 	width: 20%;
 	height: 650px;
@@ -2852,8 +2852,8 @@ video{
     -webkit-transition: all .2s ease-in;
     transition: all .2s ease-in;
 
-	}		
-	
+	}
+
 
 
 
@@ -2881,8 +2881,8 @@ video{
 	transition: all .2s ease-in;
 	background-image: url(../img/insumosin2.jpg);
 
-	}	
-	
+	}
+
 #insumosindustriales:hover{
 	width: 20%;
 	height: 650px;
@@ -2903,8 +2903,8 @@ video{
     -webkit-transition: all .2s ease-in;
     transition: all .2s ease-in;
 
-	}		
-	
+	}
+
 
 
 
@@ -2928,8 +2928,8 @@ video{
 	margin-right: auto;
 	margin-left: auto;
 	}
-	
-	
+
+
 #mainbajasafetyproductos{
 	width: 80%;
 	height: 600px;
@@ -2946,9 +2946,9 @@ video{
 	top: -10px;
 	margin-right: auto;
 	margin-left: auto;
-	}	
-		
-	
+	}
+
+
 #mainbajasafetyin{
 	width: 80%;
 	height: auto;
@@ -2962,8 +2962,8 @@ video{
 	font-size: 30px;
 	text-shadow: none;
 
-	}	
-	
+	}
+
 
 
 #mainbajasafetyin1{
@@ -2984,8 +2984,8 @@ video{
 	background: rgba(255,255,255,0.6);
 	padding-left: 2%;
 
-	}	
-	
+	}
+
 	#mainbajasafetyin2{
 	width: 100%;
 	height: auto;
@@ -3000,8 +3000,8 @@ video{
 	text-shadow: none;
 	float: none;
 
-	}	
-	
+	}
+
 
 
 
@@ -3032,8 +3032,8 @@ video{
 	background-size: cover;
 	z-index: 600;
 	background-image: url(../img/bajasafetexture.jpg);
-	}	
-	
+	}
+
 #nosotrosin{
 	width: 80%;
 	height: auto;
@@ -3047,13 +3047,13 @@ video{
 	font-size: 30px;
 	text-shadow: none;
 
-	}	
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
 #serviciosyproductos{
 	width: 100%;
 	height: 600px;
@@ -3066,8 +3066,8 @@ video{
 	background-size: cover;
 	z-index: 600;
 	background-image: url(../img/bajasafetexture.jpg);
-	}	
-	
+	}
+
 #serviciosyproductosin{
 	width: 80%;
 	height: auto;
@@ -3081,17 +3081,17 @@ video{
 	font-size: 30px;
 	text-shadow: none;
 
-	}	
-		
-	
-	
-	
-	
-	
-	
-	
+	}
 
-	
+
+
+
+
+
+
+
+
+
 #seguridad{
 	width: 100%;
 	height: 800px;
@@ -3104,8 +3104,8 @@ video{
 	background-size: cover;
 	z-index: 600;
 	background-image: url(../img/seguridad.jpg);
-	}	
-	
+	}
+
 #seguridadin{
 	width: 80%;
 	height: auto;
@@ -3119,8 +3119,8 @@ video{
 	font-size: 25px;
 	text-shadow: none;
 
-	}	
-	
+	}
+
 #seguridadin1{
 	width: 30%;
 	height: auto;
@@ -3134,8 +3134,8 @@ video{
 	font-size: 22px;
 	text-shadow: none;
 
-	}		
-	
+	}
+
 	#seguridadin2{
 	width: 40%;
 	height: auto;
@@ -3150,19 +3150,19 @@ video{
 	font-size: 22px;
 	text-shadow: none;
 
-	}		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
+
+
+
+
+
+
 #procliff{
 	width: 100%;
 	height: 800px;
@@ -3175,8 +3175,8 @@ video{
 	background-size: cover;
 	z-index: 600;
 	background-image: url(../img/procliff_proyection.jpg);
-	}	
-	
+	}
+
 #procliffin{
 	width: 80%;
 	height: auto;
@@ -3190,8 +3190,8 @@ video{
 	font-size: 30px;
 	text-shadow: none;
 
-	}	
-	
+	}
+
 #procliffin1{
 	width: 30%;
 	height: auto;
@@ -3205,8 +3205,8 @@ video{
 	font-size: 22px;
 	text-shadow: none;
 
-	}		
-	
+	}
+
 	#procliffin2{
 	width: 40%;
 	height: auto;
@@ -3221,29 +3221,29 @@ video{
 	font-size: 22px;
 	text-shadow: none;
 
-	}		
-	
-	
-	
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
+
+
+
 	#h1clase{
 	font-family: "Raleway Regular";
 	color: #FFF;
 	font-size: 65px;
 	text-shadow: #000 1px 1px 20px;
-	}	
-	
+	}
+
 		#h1clase2{
 	font-family: "Raleway Regular";
 	color: #FFFFFF;
 	font-size: 50px;
 	}
-	
-	
+
+
 #mision{
 	width: 100%;
 	height: 550px;
@@ -3256,8 +3256,8 @@ video{
 	background-position: center center;
 	background-attachment: fixed;
 	z-index: 600;
-	}	
-	
+	}
+
 #misionin{
 	width: 80%;
 	height: auto;
@@ -3274,8 +3274,8 @@ video{
 	padding-right: 3%;
 	padding-left: 3%;
 	border-radius: 20px;
-	}	
-	
+	}
+
 #divin1{
 	width: 39%;
 	height: auto;
@@ -3296,12 +3296,12 @@ video{
 	background-attachment: fixed;
 	background-position: center top;
 
-	}		
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
 #mas{
 	width: 100%;
 	height: 550px;
@@ -3316,8 +3316,8 @@ video{
 	border-top-width: medium;
 	border-top-style: solid;
 	border-top-color: #C90;
-	}	
-	
+	}
+
 #masin{
 	width: 80%;
 	height: 250px;
@@ -3330,8 +3330,8 @@ video{
 	color: #333;
 	font-size: 24px;
 	text-shadow: #000 1px 1px 20px;
-	}		
-	
+	}
+
 #masinleft{
 	width: 52%;
 	height: 100%;
@@ -3361,8 +3361,8 @@ video{
 	text-shadow: #000 1px 1px 20px;
 	background-position: right center;
 	background-color: #AD7B05;
-	}		
-		
+	}
+
 #masinright{
 	width: 39%;
 	height: 100%;
@@ -3376,7 +3376,7 @@ video{
 	font-size: 18px;
 	padding-right: 3%;
 	padding-left: 3%;
-	}	
+	}
 
 
 
@@ -3417,8 +3417,8 @@ video{
 	background-size: cover;
 	text-shadow: #000 1px 1px 20px;
 	background-position: left center;
-	}		
-		
+	}
+
 #masinright2{
 	width: 50%;
 	height: 100%;
@@ -3432,7 +3432,7 @@ video{
 	background-size: cover;
 	text-shadow: none;
 
-	}	
+	}
 #masinright2in{
 	width: 75%;
 	height: 100%;
@@ -3444,8 +3444,8 @@ video{
 	font-size: 20px;
 	margin-right: auto;
 	margin-left: auto;
-	}		
-	
+	}
+
 
 
 
@@ -3465,8 +3465,8 @@ video{
 	background-size: cover;
 	z-index: 600;
 	background-repeat: no-repeat;
-	}	
-	
+	}
+
 #nuestrahistoriain{
 	width: 80%;
 	height: auto;
@@ -3479,8 +3479,8 @@ video{
 	color: #FFF;
 	font-size: 20px;
 	text-shadow: #000 1px 1px 20px;
-	}	
-	
+	}
+
 
 
 
@@ -3497,7 +3497,7 @@ video{
 	font-family: "Raleway Regular";
 	color: #FFF;
 	z-index: 600;
-	}	
+	}
 
 #ubicacioninleft{
 	width: 25%;
@@ -3552,7 +3552,7 @@ video{
 	font-family: "Raleway Regular";
 	color: #FFF;
 	z-index: 600;
-	}	
+	}
 
 
 
@@ -3567,7 +3567,7 @@ video{
 	font-family: "Raleway Regular";
 	color: #FFF;
 	z-index: 600;
-	}	
+	}
 
 #productosinleft{
 	width: 25%;
@@ -3625,8 +3625,8 @@ video{
 
 
 /*Start*/
-	
-	
+
+
 #historia{
 	width: 100%;
 	height: 550px;
@@ -3639,8 +3639,8 @@ video{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
-	}	
-	
+	}
+
 #historiain{
 	width: 80%;
 	height: 250px;
@@ -3654,8 +3654,8 @@ video{
 	font-size: 24px;
 	z-index:600;
 	text-shadow: #000 1px 1px 20px;
-	}		
-	
+	}
+
 #historiainleft{
 	width: 52%;
 	height: 100%;
@@ -3687,8 +3687,8 @@ video{
 	text-shadow: #000 1px 1px 20px;
 	z-index:600;
 	background-position: right center;
-	}		
-		
+	}
+
 #historiainright{
 	width: 39%;
 	height: 100%;
@@ -3702,7 +3702,7 @@ video{
 	font-size: 24px;
 	padding-right: 3%;
 	padding-left: 3%;
-	}	
+	}
 
 
 
@@ -3745,8 +3745,8 @@ video{
 	background-size: cover;
 	text-shadow: #000 1px 1px 20px;
 	background-position: center center;
-	}		
-		
+	}
+
 #historiainright2{
 	width: 50%;
 	height: 100%;
@@ -3759,7 +3759,7 @@ video{
 	background-attachment: fixed;
 	background-size: cover;
 
-	}	
+	}
 #historiainright2in{
 	width: 90%;
 	height: 95%;
@@ -3777,10 +3777,10 @@ video{
 	border-left-style: dotted;
 	border-left-color: #4A3609;
 	padding-left: 20px;
-	}		
-	
-	
-	
+	}
+
+
+
 #preciosparkingin{
 	width: 450px;
 	height: 220px;
@@ -3800,8 +3800,8 @@ video{
 	background-color: #FFF;
 	box-shadow: #000 1px 1px 20px;
 	top: 20px;
-	}		
-		
+	}
+
 	#preciosparkingin2{
 	width: 90%;
 	height: 400px;
@@ -3821,10 +3821,10 @@ video{
 	box-shadow: #000 1px 1px 20px;
 	top: 100px;
 	margin-left: auto;
-	}		
-		
-	
-	
+	}
+
+
+
 	#estacionamientoinright2{
 	width: 49%;
 	height: 100%;
@@ -3837,7 +3837,7 @@ video{
 	background-attachment: fixed;
 	background-size: cover;
 
-	}	
+	}
 #estacionamientoinright2in{
 	width: 90%;
 	height: 100%;
@@ -3871,8 +3871,8 @@ video{
 
 
 /*Start*/
-	
-	
+
+
 #serviciocliente{
 	width: 100%;
 	height: 700px;
@@ -3887,8 +3887,8 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	background-image: url(../metal-wallpapers-15.jpg);
-	}	
-	
+	}
+
 #servicioclientein{
 	width: 80%;
 	height: 250px;
@@ -3902,8 +3902,8 @@ video{
 	font-size: 24px;
 	z-index:600;
 	text-shadow: #000 1px 1px 20px;
-	}		
-	
+	}
+
 #servicioclienteinleft{
 	width: 52%;
 	height: 100%;
@@ -3935,8 +3935,8 @@ video{
 	text-shadow: #000 1px 1px 20px;
 	z-index:600;
 	background-position: right center;
-	}		
-		
+	}
+
 #servicioclienteinright{
 	width: 39%;
 	height: 100%;
@@ -3950,7 +3950,7 @@ video{
 	font-size: 24px;
 	padding-right: 3%;
 	padding-left: 3%;
-	}	
+	}
 
 
 
@@ -3993,8 +3993,8 @@ video{
 	background-size: cover;
 	text-shadow: #000 1px 1px 20px;
 	background-position: center center;
-	}		
-		
+	}
+
 #servicioclienteinright2{
 	width: 40%;
 	height: 100%;
@@ -4007,7 +4007,7 @@ video{
 	background-attachment: fixed;
 	background-size: cover;
 
-	}	
+	}
 #servicioclienteinright2in{
 	width: 90%;
 	height: 85%;
@@ -4027,8 +4027,8 @@ video{
 	padding-right: 5%;
 	padding-left: 5%;
 	top: 10%;
-	}		
-	
+	}
+
 
 
 
@@ -4042,8 +4042,8 @@ video{
 
 
 /*Start*/
-	
-	
+
+
 #producto{
 	width: 100%;
 	height: 700px;
@@ -4058,8 +4058,8 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	background-image: url(../metal-wallpapers-15.jpg);
-	}	
-	
+	}
+
 #productoin{
 	width: 80%;
 	height: 250px;
@@ -4073,8 +4073,8 @@ video{
 	font-size: 24px;
 	z-index:600;
 	text-shadow: #000 1px 1px 20px;
-	}		
-	
+	}
+
 #productoinleft{
 	width: 52%;
 	height: 100%;
@@ -4106,8 +4106,8 @@ video{
 	text-shadow: #000 1px 1px 20px;
 	z-index:600;
 	background-position: right center;
-	}		
-		
+	}
+
 #productoinright{
 	width: 39%;
 	height: 100%;
@@ -4121,7 +4121,7 @@ video{
 	font-size: 24px;
 	padding-right: 3%;
 	padding-left: 3%;
-	}	
+	}
 
 
 
@@ -4161,8 +4161,8 @@ video{
 	background-size: cover;
 	text-shadow: #000 1px 1px 20px;
 	background-position: center center;
-	}		
-		
+	}
+
 #productoinright2{
 	width: 40%;
 	height: 100%;
@@ -4175,7 +4175,7 @@ video{
 	background-attachment: fixed;
 	background-size: cover;
 
-	}	
+	}
 #productoinright2in{
 	width: 80%;
 	height: 85%;
@@ -4193,8 +4193,8 @@ video{
 	border-bottom-left-radius: 50px;
 	border-top-left-radius: 100px;
 	top: 10%;
-	}		
-	
+	}
+
 
 
 
@@ -4218,8 +4218,8 @@ video{
 
 
 /*Start*/
-	
-	
+
+
 #producto1{
 	width: 100%;
 	height: 640px;
@@ -4233,7 +4233,7 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	}	
+	}
 
 
 #producto01{
@@ -4249,7 +4249,7 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	}	
+	}
 
 #producto12{
 	width: 100%;
@@ -4264,8 +4264,8 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	}	
-	
+	}
+
 #identificadorriesgosbg{
 	width: 100%;
 	height: 520px;
@@ -4281,8 +4281,8 @@ video{
 	top: -100px;
 	background-image: url(../img/consultoriayacreditaciones/consultoriabg.jpg);
 	}
-	
-	
+
+
 #capacitacionesbanner{
 	width: 100%;
 	height: 520px;
@@ -4298,10 +4298,10 @@ video{
 	top: -100px;
 	background-image: url(../img/capacitacionescertificadas/capacitaciones_fondo.jpg);
 	}
-		
-	
-	
-	
+
+
+
+
 #acreditacionesbanner{
 	width: 100%;
 	height: 520px;
@@ -4317,7 +4317,7 @@ video{
 	top: -100px;
 	background-image: url(../img/consultoriayacreditaciones/acreditaciones_fondo.jpg);
 	}
-	
+
 #leanbanner{
 	width: 100%;
 	height: 520px;
@@ -4332,8 +4332,8 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	background-image: url(../img/leanmanufacturing/leanbanner.jpg);
-	}	
-	
+	}
+
 
 #certificadasbanner{
 	width: 100%;
@@ -4349,10 +4349,10 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	background-image: url(../img/capacitacionescertificadas/certificadasbanner.jpg);
-	}	
-	
-		
-	
+	}
+
+
+
 #nosotrosbanner{
 	width: 100%;
 	height: 520px;
@@ -4367,8 +4367,8 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	background-image: url(../img/nosotros_bg.jpg);
-	}	
-	
+	}
+
 #controlesingenieriabanner{
 	width: 100%;
 	height: 520px;
@@ -4383,8 +4383,8 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	background-image: url(../img/controlesdeingenieria/controlesdeingenieria_bg.jpg);
-	}			
-	
+	}
+
 
 #consultoriasdown{
 	width: 100%;
@@ -4399,11 +4399,11 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
-		}	
-		
-		
-		
+
+		}
+
+
+
 #safetydevices{
 	width: 100%;
 	height: 600px;
@@ -4417,13 +4417,13 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
-		}			
-		
-		
-		
-		
-		
+
+		}
+
+
+
+
+
 #automatizacionycontrol{
 	width: 100%;
 	height: 520px;
@@ -4437,9 +4437,9 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
-		}			
-		
+
+		}
+
 
 
 
@@ -4456,10 +4456,10 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
-		}	
-		
-		
+
+		}
+
+
 #misionyvision{
 	width: 90%;
 	height: 380px;
@@ -4476,9 +4476,9 @@ video{
 	float: none;
 	margin-right: auto;
 	margin-left: auto;
-	
-		}			
-		
+
+		}
+
 
 
 #manejoderesiduospeligrosos{
@@ -4495,9 +4495,9 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	float: none;
-	
-		}	
-		
+
+		}
+
 #emisionesadmosfericas{
 	width: 100%;
 	height: 500px;
@@ -4512,10 +4512,10 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	float: none;
-	
-		}	
-		
-		
+
+		}
+
+
 #aguasresiduales{
 	width: 100%;
 	height: 500px;
@@ -4530,8 +4530,8 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	float: none;
-	
-		}					
+
+		}
 
 
 
@@ -4549,8 +4549,8 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	float: none;
-	
-		}					
+
+		}
 
 
 
@@ -4568,10 +4568,10 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
-		}	
-		
-		
+
+		}
+
+
 #serviciosdemanufactura{
 	width: 100%;
 	height: 520px;
@@ -4585,11 +4585,11 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
-		}			
-		
-		
-		
+
+		}
+
+
+
 #dronesmanufactura{
 	width: 100%;
 	height: 630px;
@@ -4603,12 +4603,12 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
-		}	
-				
-		
-		
-		
+
+		}
+
+
+
+
 #acreditacionesnom{
 	width: 100%;
 	height: 420px;
@@ -4622,10 +4622,10 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
+
 		}
-		
-		
+
+
 #acreditacionesnom2{
 	width: 100%;
 	height: 380px;
@@ -4639,9 +4639,9 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
-		}		
-					
+
+		}
+
 
 
 #ergonomiacognitivaorganizacional{
@@ -4657,9 +4657,9 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
+
 		}
-		
+
 #seguridadehigiene{
 	width: 100%;
 	height: 520px;
@@ -4673,8 +4673,8 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
-		}			
+
+		}
 
 #estudiosderiesgoambiental{
 	width: 100%;
@@ -4689,8 +4689,8 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
-		}	
+
+		}
 
 
 #vigilanciamedica{
@@ -4706,7 +4706,7 @@ video{
 	background-color: #FFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	
+
 		}
 
 
@@ -4729,10 +4729,10 @@ video{
 	border-top-color: #FC3;
 	font-size: 24px;
 	float: none;
-	
-		}	
-	
-	
+
+		}
+
+
 #consultoriasdown3{
 	width: 100%;
 	height: 200px;
@@ -4751,10 +4751,10 @@ video{
 	border-bottom-color: #FC3;
 	font-size: 24px;
 	float: none;
-	
-		}	
-	
-	
+
+		}
+
+
 #estudiosycapacitacionbg{
 	width: 100%;
 	height: 700px;
@@ -4769,10 +4769,10 @@ video{
 	background-repeat: no-repeat;
 	top: -100px;
 	background-image: url(../estudiosycapacitacionbg.jpg);
-	}		
-		
-	
-	
+	}
+
+
+
 #producto1in{
 	width: 80%;
 	height: 250px;
@@ -4786,8 +4786,8 @@ video{
 	font-size: 24px;
 	z-index:600;
 	text-shadow: #000 1px 1px 20px;
-	}		
-	
+	}
+
 #producto1inleft{
 	width: 52%;
 	height: 100%;
@@ -4819,8 +4819,8 @@ video{
 	text-shadow: #000 1px 1px 20px;
 	z-index:600;
 	background-position: right center;
-	}		
-		
+	}
+
 #producto1inright{
 	width: 39%;
 	height: 100%;
@@ -4834,7 +4834,7 @@ video{
 	font-size: 24px;
 	padding-right: 3%;
 	padding-left: 3%;
-	}	
+	}
 
 
 
@@ -4874,8 +4874,8 @@ video{
 	background-size: cover;
 	text-shadow: #000 1px 1px 20px;
 	background-position: center center;
-	}		
-		
+	}
+
 #producto1inright2{
 	width: 52%;
 	height: 100%;
@@ -4888,7 +4888,7 @@ video{
 	background-attachment: fixed;
 	background-size: cover;
 
-	}	
+	}
 #producto1inright2in{
 	width: 80%;
 	height: 90%;
@@ -4905,9 +4905,9 @@ video{
 	border-bottom-left-radius: 50px;
 	border-top-left-radius: 100px;
 	top: 220px;
-	}	
-	
-	
+	}
+
+
 #centerin{
 	width: 80%;
 	height: auto;
@@ -4925,8 +4925,8 @@ video{
 	border-bottom-left-radius: 50px;
 	border-top-left-radius: 100px;
 	top: 170px;
-	}	
-	
+	}
+
 
 #centerin3{
 	width: 80%;
@@ -4944,8 +4944,8 @@ video{
 	border-bottom-left-radius: 50px;
 	border-top-left-radius: 100px;
 	top: 170px;
-	}	
-	
+	}
+
 #centerin4{
 	width: 50%;
 	height: auto;
@@ -4963,7 +4963,7 @@ video{
 	border-top-left-radius: 100px;
 	top: 0px;
 	}
-	
+
 #valor02{
 	width: 25%;
 	height: auto;
@@ -4980,8 +4980,8 @@ video{
 	border-bottom-left-radius: 50px;
 	border-top-left-radius: 100px;
 	top: 0px;
-	}	
-	
+	}
+
 
 
 
@@ -5001,12 +5001,12 @@ video{
 	border-bottom-left-radius: 50px;
 	border-top-left-radius: 100px;
 	top: 0px;
-	}		
-	
-	
-	
-	
-	
+	}
+
+
+
+
+
 #incenter{
 	width: 90%;
 	height: auto;
@@ -5020,8 +5020,8 @@ video{
 	margin-left: auto;
 	border-radius: 20px;
 	top: 0px;
-	}		
-	
+	}
+
 #centerin5{
 	width: 45%;
 	height: auto;
@@ -5039,7 +5039,7 @@ video{
 	border-top-left-radius: 100px;
 	top: 50px;
 	}
-	
+
 #centerin05{
 	width: 45%;
 	height: auto;
@@ -5055,9 +5055,9 @@ video{
 	background-color: rgba(7,8,12,0.0);
 	border-bottom-left-radius: 50px;
 	border-top-left-radius: 100px;
-	}	
-	
-	
+	}
+
+
 #centerin10{
 	width: 20.7%;
 	height: auto;
@@ -5073,10 +5073,10 @@ video{
 	top: 50px;
 	padding-right: 2px;
 	padding-left: 2px;
-	}	
-	
-		
-	
+	}
+
+
+
 #centerin6{
 	width: 20%;
 	height: 170px;
@@ -5094,7 +5094,7 @@ video{
 	border-top-left-radius: 100px;
 	top: 10px;
 	}
-	
+
 #centerin6:hover{
 	width: 19%;
 	height: 140px;
@@ -5110,7 +5110,7 @@ video{
 	border: solid #FC3 medium;
 	background-color: rgba(7,8,12,0.0);
 	top: 10px;
-	}					
+	}
 
 #centerin6interior{
 	width: 90%;
@@ -5127,9 +5127,9 @@ video{
 	background-color: rgba(7,8,12,0.0);
 	border-bottom-left-radius: 50px;
 	border-top-left-radius: 100px;
-	}				
+	}
 
-			
+
 #centerin2{
 	width: 80%;
 	height: auto;
@@ -5147,7 +5147,7 @@ video{
 	border-bottom-left-radius: 50px;
 	border-top-left-radius: 100px;
 	top: 170px;
-	}		
+	}
 
 
 
@@ -5176,8 +5176,8 @@ video{
 	background-color: #FFFFFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	}	
-	
+	}
+
 	#productodesc2{
 	width: 100%;
 	height: 1000px;
@@ -5191,9 +5191,9 @@ video{
 	background-color: #FFFFFF;
 	background-repeat: no-repeat;
 	top: -100px;
-	}	
-	
-	
+	}
+
+
 #productodescin{
 	width: 80%;
 	height: 250px;
@@ -5207,8 +5207,8 @@ video{
 	font-size: 24px;
 	z-index:600;
 	text-shadow: #000 1px 1px 20px;
-	}		
-	
+	}
+
 #productodescinleft{
 	width: 52%;
 	height: 100%;
@@ -5240,8 +5240,8 @@ video{
 	text-shadow: #000 1px 1px 20px;
 	z-index:600;
 	background-position: right center;
-	}		
-		
+	}
+
 #productodescinright{
 	width: 39%;
 	height: 100%;
@@ -5255,7 +5255,7 @@ video{
 	font-size: 24px;
 	padding-right: 3%;
 	padding-left: 3%;
-	}	
+	}
 
 
 
@@ -5294,12 +5294,12 @@ video{
 	font-size: 23px;
 
 
-	
+
 	background-size: cover;
 	text-shadow: #000 1px 1px 20px;
 	background-position: center center;
-	}		
-		
+	}
+
 #productodescinright2{
 	width: 40%;
 	height: 100%;
@@ -5312,7 +5312,7 @@ video{
 	background-attachment: fixed;
 	background-size: cover;
 
-	}	
+	}
 #productodescinright2in{
 	width: 80%;
 	height: 85%;
@@ -5330,8 +5330,8 @@ video{
 	border-bottom-left-radius: 50px;
 	border-top-left-radius: 100px;
 	top: 10%;
-	}		
-	
+	}
+
 
 
 
@@ -5357,7 +5357,7 @@ video{
 	color: #FFF;
 	z-index: 600;
 	float: none;
-	}	
+	}
 #contactoleftin{
 	width: 50%;
 	height: 85%;
@@ -5392,14 +5392,14 @@ video{
 	top: 20px;
 	background-color: rgba(0,0,0,0);
 	}
-	
+
 	#contactotop{
 	position: relative;
 	width: 100%;
 	height: 150px;
 		}
-		
-		
+
+
 			#contactoin{
 	width: 99%;
 	height: auto;
@@ -5408,8 +5408,8 @@ video{
 	top: 35px;
 	margin-top: 20px;
 		}
-		
-	
+
+
 	#contactotopin{
 	width: 90%;
 	position: relative;
@@ -5422,7 +5422,7 @@ video{
 	margin-left: auto;
 	top: 70px;
 	margin-bottom:10px;
-		}	
+		}
 
 
 
@@ -5462,7 +5462,7 @@ input{
 	margin-bottom: 10px;
 	padding: 5px;
 	font-family: "Raleway Regular";
-}	
+}
 
 input[type=button]{
 	background-color: #009933;
@@ -5503,9 +5503,9 @@ font-Weight:400;
     font-size:14px;
     color:green;
     text-align:center;
-}	
-	
-	
+}
+
+
 .btnmap{
 	background-image: url(../img/blackup.png);
 	background-position: right;
@@ -5522,9 +5522,9 @@ font-Weight:400;
 	border-right-style: none;
 	border-bottom-style: none;
 	border-left-style: none;
-}	
-	
-	
+}
+
+
 /*ESTILOS*/
 .bannertext{
 	font-family: "Raleway Regular";
@@ -5537,7 +5537,7 @@ font-Weight:400;
 	font-size: 14px;
 	color: #FFF;
 	text-shadow: rgba(0,0,0,1) 1px 1px 20px;
-	}	
+	}
 /*ESTILOS END*/
 
 
@@ -5545,7 +5545,7 @@ font-Weight:400;
 #calendar{
 	visibility:visible;
 	display:block;
-	}		
+	}
 
 
 
@@ -5559,7 +5559,7 @@ font-Weight:400;
 	color: #FFF;
 	z-index: 600;
 	}
-	
+
 #copyrightin{
 	width: 85%;
 	height: 40px;
@@ -5574,7 +5574,7 @@ font-Weight:400;
 	text-align: center;
 	font-size: 12px;
 	text-shadow:#000 1px 1px 10px;
-	}	
+	}
 .imgalmacen{
 	width: 13%;
 	}
@@ -5583,11 +5583,11 @@ font-Weight:400;
 
 
 @media only screen and (min-width:200px) and (max-width: 1000px){
-	
-	
+
+
 		.pulsate {
     -webkit-animation: pulsate 3s ease-out;
-    -webkit-animation-iteration-count: infinite; 
+    -webkit-animation-iteration-count: infinite;
     opacity: 0.5;
 	font-size:30px;
 }
@@ -5595,12 +5595,12 @@ font-Weight:400;
 
 		#vimeovid{
 	width:390px; height:300px;
-	}	
-	
+	}
+
 	.imgalmacen{
 	width: 40%;
 	}
-	
+
 	#copyright{
 	width: 100%;
 	height: 60px;
@@ -5611,26 +5611,26 @@ font-Weight:400;
 	color: #FFF;
 	z-index: 600;
 	}
-	
-	
+
+
 	#h1clase{
 	font-family: "Raleway Regular";
 	color: #FFF;
 	font-size: 30px;
 	text-shadow: #000 1px 1px 20px;
-	}	
-	
+	}
+
 	#mainmenuleft{
 	width: 100%;
 	height: 90px;
-	background:rgba(255,255,255,0);
+	background:white;
 	position: fixed;
 	display: block;
 	color: #301803;
 	z-index: 20100;
-	
+
 	}
-	
+
 	#mainbanner{
 	height: auto;
 	width: 100%;
@@ -5638,8 +5638,8 @@ font-Weight:400;
 	position: relative;
 	top: 0px;
 	background-color: rgba(255,255,255,0.3);
-	}	
-	
+	}
+
 	#mainright{
 	width: 50%;
 	height: auto;
@@ -5648,21 +5648,21 @@ font-Weight:400;
 	text-align: right;
 	margin-right: 5%;
 	margin-left: auto;
-	
+
 }
 
 
-/*MENU TABLET*/	
+/*MENU TABLET*/
     .menu {
         position:relative;
         display:inline-block;
 		top:10px;
     }
- 
+
     .menu ul.active {
         display:none;
     }
- 
+
     .menu ul {
         width:310px;
         position:absolute;
@@ -5672,7 +5672,7 @@ font-Weight:400;
         border-radius:3px;
         background:#000;
     }
- 
+
     .menu ul:after {
         width:0px;
         height:0px;
@@ -5685,7 +5685,7 @@ font-Weight:400;
         border-right:7px solid transparent;
         border-bottom:7px solid #303030;
     }
- 
+
     .menu li {
 	margin: 5px 0px 5px 0px;
 	float: none;
@@ -5696,11 +5696,11 @@ font-Weight:400;
 	height: 50px;
 	text-shadow: #000 1px 1px 10px;
     }
- 
+
     .menu a {
         display:block;
     }
- 
+
     .toggle-nav {
 	padding: 15px;
 	float: left;
@@ -5713,18 +5713,18 @@ font-Weight:400;
 	transition: color linear 0.15s;
 	background:rgba(255,255,255,0.3);
     }
- 
+
     .toggle-nav:hover, .toggle-nav.active {
 	text-decoration: none;
 	color: #CC3300;
 	padding:15px;
     }
- 
+
     .search-form {
         margin:12px 0px 0px 20px;
         float:left;
     }
- 
+
     .search-form input {
         box-shadow:-1px 1px 2px rgba(0,0,0,0.1);
     }
@@ -5742,7 +5742,7 @@ font-Weight:400;
 	background-position: center center;
 	background-size: cover;
 	}
-	
+
 #bannerin{
 	width: 80%;
 	height: 200px;
@@ -5752,10 +5752,10 @@ font-Weight:400;
 	font-family: "Raleway Regular";
 	text-align: center;
 	top: 150px;
-	}	
+	}
 
-	
-	
+
+
 #box1{
 	width: 90%;
 	height: 300px;
@@ -5775,8 +5775,8 @@ font-Weight:400;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}	
-	
+	}
+
 #box2{
 	width: 90%;
 	height: 300px;
@@ -5796,7 +5796,7 @@ font-Weight:400;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}		
+	}
 #box3{
 	width: 48%;
 	height: 300px;
@@ -5817,7 +5817,7 @@ font-Weight:400;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}	
+	}
 #box4{
 	width: 90%;
 	height: 300px;
@@ -5843,8 +5843,8 @@ font-Weight:400;
 	-ms-transition: opacity 0s ease-out; /* IE 10 betas, not needed in final build. */
 	-moz-transition: opacity  0s ease-out; /* Firefox */
 	-webkit-transition: opacity 0s ease-out; /*safari and chrome */
-	
-	}	
+
+	}
 
 
 
@@ -5873,9 +5873,9 @@ font-Weight:400;
 	-ms-transition: opacity 0s ease-out; /* IE 10 betas, not needed in final build. */
 	-moz-transition: opacity  0s ease-out; /* Firefox */
 	-webkit-transition: opacity 0s ease-out; /*safari and chrome */
-	
+
 	}
-	
+
 
 
 #box6{
@@ -5903,7 +5903,7 @@ font-Weight:400;
 	-ms-transition: opacity 0s ease-out; /* IE 10 betas, not needed in final build. */
 	-moz-transition: opacity  0s ease-out; /* Firefox */
 	-webkit-transition: opacity 0s ease-out; /*safari and chrome */
-	
+
 	}
 
 #boxup{
@@ -5917,7 +5917,7 @@ font-Weight:400;
 	font-size: 24px;
 	background-size: cover;
 	background-position: center center;
-	}	
+	}
 #boxupin{
 	width: 85%;
 	height: 100px;
@@ -5932,7 +5932,7 @@ font-Weight:400;
 	text-align: center;
 	font-size: 25px;
 	text-shadow: #000 1px 1px 20px;
-	}		
+	}
 
 
 /*BOX HOVER*/
@@ -5951,8 +5951,8 @@ font-Weight:400;
 	font-size: 24px;
 	background-size: 200%;
 	background-position: center center;
-	}	
-	
+	}
+
 #box2:hover{
 	width: 90%;
 	height: 300px;
@@ -5967,7 +5967,7 @@ font-Weight:400;
 	font-size: 24px;
 	background-size: 200%;
 	background-position: left center;
-	}		
+	}
 #box3:hover{
 	width: 48%;
 	height: 300px;
@@ -5983,8 +5983,8 @@ font-Weight:400;
 	background-size: 200%;
 	background-position: left center;
 	background-image: url(../img/foto3.jpg);
-	
-	}	
+
+	}
 #box4:hover{
 	width: 90%;
 	height: 300px;
@@ -6005,8 +6005,8 @@ font-Weight:400;
 	-ms-transition: opacity 0.5s ease-in; /* IE 10 betas, not needed in final build. */
 	-moz-transition: opacity  0.5s ease-in; /* Firefox */
 	-webkit-transition: opacity 0.5s ease-in; /*safari and chrome */
-	}	
-	
+	}
+
 #box5:hover{
 	width: 90%;
 	height: 300px;
@@ -6027,9 +6027,9 @@ font-Weight:400;
 	-ms-transition: opacity 0.5s ease-in; /* IE 10 betas, not needed in final build. */
 	-moz-transition: opacity  0.5s ease-in; /* Firefox */
 	-webkit-transition: opacity 0.5s ease-in; /*safari and chrome */
-	}	
-	
-	
+	}
+
+
 	#box6:hover{
 	width: 90%;
 	height: 300px;
@@ -6051,8 +6051,8 @@ font-Weight:400;
 	-moz-transition: opacity  0.5s ease-in; /* Firefox */
 	-webkit-transition: opacity 0.5s ease-in; /*safari and chrome */
 	}
-	
-	
+
+
 #boxup:hover{
 	width: 100%;
 	height: 300px;
@@ -6079,7 +6079,7 @@ font-Weight:400;
 	text-align: center;
 	font-size: 20px;
 	text-shadow: #000 1px 1px 20px;
-	}				
+	}
 /*BOX HOVER END*/
 
 
@@ -6090,7 +6090,7 @@ font-Weight:400;
 
 
 
-	
+
 #serviciocliente{
 	width: 100%;
 	height: 1000px;
@@ -6100,8 +6100,8 @@ font-Weight:400;
 	font-family: "Raleway Regular";
 	color: #FFF;
 	z-index: 600;
-	}	
-	
+	}
+
 #servicioclientein{
 	width: 80%;
 	height: 250px;
@@ -6115,8 +6115,8 @@ font-Weight:400;
 	font-size: 24px;
 	z-index:600;
 	text-shadow: #000 1px 1px 20px;
-	}		
-	
+	}
+
 #servicioclienteinleft{
 	width: 52%;
 	height: 100%;
@@ -6148,8 +6148,8 @@ font-Weight:400;
 	text-shadow: #000 1px 1px 20px;
 	z-index:600;
 	background-position: right center;
-	}		
-		
+	}
+
 #servicioclienteinright{
 	width: 39%;
 	height: 100%;
@@ -6163,7 +6163,7 @@ font-Weight:400;
 	font-size: 24px;
 	padding-right: 3%;
 	padding-left: 3%;
-	}	
+	}
 
 
 
@@ -6201,8 +6201,8 @@ font-Weight:400;
 	background-size: cover;
 	text-shadow: #000 1px 1px 20px;
 	background-position: center center;
-	}		
-		
+	}
+
 #servicioclienteinright2{
 	width: 100%;
 	height: 550px;
@@ -6215,7 +6215,7 @@ font-Weight:400;
 	background-attachment: fixed;
 	background-size: cover;
 
-	}	
+	}
 #servicioclienteinright2in{
 	width: 90%;
 	height: auto;
@@ -6227,8 +6227,8 @@ font-Weight:400;
 	font-size: 16px;
 	margin-right: auto;
 	margin-left: auto;
-	}		
-	
+	}
+
 
 
 
@@ -6253,10 +6253,10 @@ font-Weight:400;
 	height: 500px;
 	position: relative;
 	background-color: #FFF;
-	}	
+	}
 
-	
-	
+
+
 
 #nosotros{
 	width: 100%;
@@ -6269,8 +6269,8 @@ font-Weight:400;
 	color: #FFF;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	}	
-	
+	}
+
 #nosotrosin{
 	width: 80%;
 	height: auto;
@@ -6283,8 +6283,8 @@ font-Weight:400;
 	color: #FFF;
 	font-size: 20px;
 	text-shadow: #000 1px 1px 20px;
-	}	
-	
+	}
+
 
 
 
@@ -6303,7 +6303,7 @@ font-Weight:400;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	}
-	
+
 #servicios{
 	width: 100%;
 	height: 850px;
@@ -6315,9 +6315,9 @@ font-Weight:400;
 	color: #FFF;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	}	
-		
-	
+	}
+
+
 #servicesin{
 	width: 80%;
 	height: auto;
@@ -6330,8 +6330,8 @@ font-Weight:400;
 	color: #FFF;
 	font-size: 20px;
 	text-shadow: #000 1px 1px 20px;
-	}	
-	
+	}
+
 
 
 
@@ -6345,8 +6345,8 @@ font-Weight:400;
 	background-position: center center;
 	font-family: "Raleway Regular";
 	color: #FFF;
-	}	
-	
+	}
+
 #masin{
 	width: 80%;
 	height: 250px;
@@ -6359,8 +6359,8 @@ font-Weight:400;
 	color: #333;
 	font-size: 24px;
 	text-shadow: #000 1px 1px 20px;
-	}		
-	
+	}
+
 #masinleft{
 	width: 100%;
 	height: 500px;
@@ -6392,8 +6392,8 @@ font-Weight:400;
 	background-image: none;
 	margin-right: auto;
 	margin-left: auto;
-	}		
-		
+	}
+
 #masinright{
 	width: 90%;
 	height: 340px;
@@ -6405,7 +6405,7 @@ font-Weight:400;
 	font-family: "Raleway Regular";
 	color: #333;
 	font-size: 16px;
-	}	
+	}
 
 
 
@@ -6444,8 +6444,8 @@ font-Weight:400;
 	background-position: left center;
 	margin-right: auto;
 	margin-left: auto;
-	}		
-		
+	}
+
 #masinright2{
 	width: 100%;
 	height: 350px;
@@ -6461,7 +6461,7 @@ font-Weight:400;
 	margin-left: auto;
 	z-index: 800;
 
-	}	
+	}
 #masinright2in{
 	width: 95%;
 	height: 300px;
@@ -6473,8 +6473,8 @@ font-Weight:400;
 	font-size: 16px;
 	margin-right: auto;
 	margin-left: auto;
-	}		
-	
+	}
+
 
 
 
@@ -6503,9 +6503,9 @@ font-Weight:400;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
-	}	
-	
-	
+	}
+
+
 	#restaurantesin{
 	width: 90%;
 	height: auto;
@@ -6517,8 +6517,8 @@ font-Weight:400;
 	text-align: center;
 	top: 100px;
 
-	}	
-	
+	}
+
 		#entretenimientoin{
 	width: 90%;
 	height: auto;
@@ -6531,9 +6531,9 @@ font-Weight:400;
 	top: 100px;
 
 	}
-	
-	
-	
+
+
+
 #tiendastitulo{
 	width: 95%;
 	height: 70px;
@@ -6552,9 +6552,9 @@ font-Weight:400;
 	font-style: normal;
 	text-align: center;
 	float: none;
-	}		
-	
-	
+	}
+
+
 
 
 #boxtienda1{
@@ -6578,8 +6578,8 @@ font-Weight:400;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}	
-	
+	}
+
 #boxtienda2{
 	width: 200px;
 	height: 200px;
@@ -6601,9 +6601,9 @@ font-Weight:400;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}		
-	
-	
+	}
+
+
 #boxtienda3{
 	width: 200px;
 	height: 200px;
@@ -6625,8 +6625,8 @@ font-Weight:400;
 	-webkit-transition: background-position 2s ease-in;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
-	transition: background-position 2s ease-in;	
-	}	
+	transition: background-position 2s ease-in;
+	}
 #boxtienda4{
 	width: 200px;
 	height: 200px;
@@ -6648,10 +6648,10 @@ font-Weight:400;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	
-	
-	}	
-	
+
+
+	}
+
 #boxtienda5{
 	width: 200px;
 	height: 200px;
@@ -6673,11 +6673,11 @@ font-Weight:400;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	
-	
+
+
 	}
-	
-	
+
+
 
 #boxtienda6{
 	width: 200px;
@@ -6700,8 +6700,8 @@ font-Weight:400;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top:20px;
-	
-	}		
+
+	}
 
 
 
@@ -6727,8 +6727,8 @@ font-Weight:400;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top:20px;
-	
-	}		
+
+	}
 
 
 #boxtienda8{
@@ -6752,8 +6752,8 @@ font-Weight:400;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top:20px;
-	
-	}		
+
+	}
 
 
 
@@ -6778,8 +6778,8 @@ font-Weight:400;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top: 20px;
-	
-	}		
+
+	}
 
 
 
@@ -6795,9 +6795,9 @@ font-Weight:400;
 	font-family: "Raleway Regular";
 	color: #666;
 	float: left;
-	font-size: 24px; 
+	font-size: 24px;
    border-radius:200px;
- 
+
 	background-size: cover;
 	background-position: center center;
 	-webkit-transition: all 1s ease-in-out;
@@ -6805,8 +6805,8 @@ font-Weight:400;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	}		
-	
+	}
+
 
 
 
@@ -6825,8 +6825,8 @@ font-Weight:400;
 	font-size: 24px;
 	margin-top:20px;
    border-radius:200px;
- 
-	
+
+
 	background-size: cover;
 	background-position: center center;
 	-webkit-transition: all 1s ease-in-out;
@@ -6834,9 +6834,9 @@ font-Weight:400;
 	-moz-transition: background-position 2s ease-in;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
-	
-	
-	}	
+
+
+	}
 
 
 #boxtienda12{
@@ -6860,8 +6860,8 @@ font-Weight:400;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top: 20px;
-	
-	}	
+
+	}
 
 
 
@@ -6889,12 +6889,12 @@ font-Weight:400;
 	-o-transition: background-position 2s ease-in;
 	transition: background-position 2s ease-in;
 	margin-top: 20px;
-	
-	}	
+
+	}
 
 
 
-	
+
 	#boxtiendaup{
 	width: 100%;
 	height: 300px;
@@ -6907,10 +6907,10 @@ font-Weight:400;
 	background-size: cover;
 	background-position: center center;
 
-	
-	}	
-	
-	
+
+	}
+
+
 #boxtiendaupin{
 	width: 88%;
 	height: 100px;
@@ -6925,9 +6925,9 @@ font-Weight:400;
 	text-align: center;
 	font-size: 20px;
 	text-shadow: #000 1px 1px 20px;
-	}	
-	
-	
+	}
+
+
 
 
 
@@ -6950,14 +6950,14 @@ font-Weight:400;
 	padding-top: 5px;
 	padding-left: 5px;
 	padding-right: 5px;
-	
 
-	
-	}	
 
-	
-/*TIENDAS END*/		
-	
+
+	}
+
+
+/*TIENDAS END*/
+
 
 
 
@@ -6983,8 +6983,8 @@ font-Weight:400;
 	background-size: cover;
 	background-position: center center;
 	background-attachment: fixed;
-	}	
-	
+	}
+
 #misionin{
 	width: 80%;
 	height: auto;
@@ -7001,7 +7001,7 @@ font-Weight:400;
 	padding-right: 3%;
 	padding-left: 3%;
 	border-radius: 20px;
-	}	
+	}
 
 
 
@@ -7014,7 +7014,7 @@ font-Weight:400;
 	background-position: center center;
 	font-family: "Raleway Regular";
 	color: #FFF;
-	}	
+	}
 
 #ubicacioninleft{
 	width: 100%;
@@ -7074,7 +7074,7 @@ font-Weight:400;
 	background-attachment: fixed;
 	background-position: center top;
 	box-shadow: #000 1px 2px 50px;
-	}	
+	}
 
 
 
@@ -7086,7 +7086,7 @@ font-Weight:400;
 	background-position: center center;
 	font-family: "Raleway Regular";
 	color: #FFF;
-	}	
+	}
 #contactoleftin{
 	width: 90%;
 	height: 600px;
@@ -7119,14 +7119,14 @@ font-Weight:400;
 	top: 120px;
 	background: rgba(0,0,0,0.7);
 	}
-	
-	
+
+
 
 
 
 /*Start*/
-	
-	
+
+
 #historia{
 	width: 100%;
 	height: 750px;
@@ -7136,8 +7136,8 @@ font-Weight:400;
 	font-family: "Raleway Regular";
 	color: #FFF;
 	z-index: 600;
-	}	
-	
+	}
+
 #historiain{
 	width: 80%;
 	height: 250px;
@@ -7151,8 +7151,8 @@ font-Weight:400;
 	font-size: 24px;
 	z-index:600;
 	text-shadow: #000 1px 1px 20px;
-	}		
-	
+	}
+
 #historiainleft{
 	width: 52%;
 	height: 100%;
@@ -7184,8 +7184,8 @@ font-Weight:400;
 	text-shadow: #000 1px 1px 20px;
 	z-index:600;
 	background-position: right center;
-	}		
-		
+	}
+
 #historiainright{
 	width: 39%;
 	height: 100%;
@@ -7199,7 +7199,7 @@ font-Weight:400;
 	font-size: 24px;
 	padding-right: 3%;
 	padding-left: 3%;
-	}	
+	}
 
 
 
@@ -7242,8 +7242,8 @@ font-Weight:400;
 	background-position: center center;
 	margin-right: auto;
 	margin-left: auto;
-	}		
-		
+	}
+
 #historiainright2{
 	width: 100%;
 	height: 600px;
@@ -7259,7 +7259,7 @@ font-Weight:400;
 	margin-left: auto;
 	z-index: 1000;
 
-	}	
+	}
 #historiainright2in{
 	width: 95%;
 	height: 500px;
@@ -7272,8 +7272,8 @@ font-Weight:400;
 	margin-right: auto;
 	margin-left: auto;
 	top: 50px;
-	}		
-	
+	}
+
 
 
 
@@ -7317,8 +7317,8 @@ font-Weight:400;
 	background-position: center center;
 	margin-right: auto;
 	margin-left: auto;
-	}		
-		
+	}
+
 #estacionamientoinright2{
 	width: 100%;
 	height: 100%;
@@ -7333,7 +7333,7 @@ font-Weight:400;
 	margin-right: auto;
 	margin-left: auto;
 
-	}	
+	}
 #estacionamientoinright2in{
 	width: 90%;
 	height: 100%;
@@ -7345,7 +7345,7 @@ font-Weight:400;
 	font-size: 24px;
 	margin-right: auto;
 	margin-left: auto;
-	}	
+	}
 
 
 
@@ -7400,7 +7400,7 @@ input{
 	margin-bottom: 10px;
 	padding: 5px;
 	font-family: "Raleway Regular";
-}	
+}
 
 input[type=button]{
 	background-color: #3399CC;
@@ -7441,9 +7441,9 @@ font-Weight:400;
     font-size:14px;
     color:green;
     text-align:center;
-}	
-	
-	
+}
+
+
 .btnmap{
 	background-image: url(../img/blackup.png);
 	background-position: right;
@@ -7460,15 +7460,15 @@ font-Weight:400;
 	border-right-style: none;
 	border-bottom-style: none;
 	border-left-style: none;
-}	
-	
+}
 
-	
+
+
 #calendar{
 	visibility:hidden;
 	display:none;
-	}		
-	
+	}
+
 
 /*ESTILOS*/
 .bannertext{
@@ -7477,16 +7477,16 @@ font-Weight:400;
 	color: #FFF;
 	text-shadow: rgba(0,0,0,1) 1px 1px 20px;
 	}
-	
-	
+
+
 .boxupindesctext{
 	font-family: "Raleway Regular";
 	font-size: 14px;
 	color: #FFF;
 	text-shadow: rgba(0,0,0,1) 1px 1px 20px;
-	}	
-/*ESTILOS END*/	
-	
+	}
+/*ESTILOS END*/
+
 video{
 	position: relative;
 	width: 100%;
@@ -7500,7 +7500,7 @@ video{
 	background-position: center center;
 margin-left:auto;
 margin-right:auto;
-	}	
-	
+	}
+
 
 }
