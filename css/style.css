@@ -10,7 +10,9 @@
 
 /* CSS Document */
 
-
+.toggle-nav {
+    display:none;
+}
 
 html{
 	padding:0;
@@ -172,9 +174,10 @@ video{
 	position: relative;
 	background-color: rgba(255,255,255,0.9);
 	}
+
 #mainmenuleft{
 	width: 100%;
-	height: 55px;
+	height: 70px;
 	position: fixed;
 	display: block;
 	color: #301803;
@@ -185,6 +188,8 @@ video{
 
 	}
 #mainlogo{
+	padding-top: 8px;
+	padding-left: 25px;
 	width: 15%;
 	height: 68px;
 	margin-left: 15px;
@@ -219,11 +224,7 @@ video{
 }
 
 
-/*MENU*/
-/*----- Toggle Button -----*/
-.toggle-nav {
-    display:none;
-}
+
 
 /*----- Menu -----*/
 @media screen and (min-width: 1148px) {
@@ -244,7 +245,7 @@ video{
 }
 
 .menu li {
-	margin: 0px 50px 0px 0px;
+	margin: 0px 40px 0px 0px;
 	float: left;
 	text-decoration: none;
 	list-style: none;
@@ -492,7 +493,6 @@ video{
 
 #ligas{
 	width: 100%;
-	height: 350px;
 	position: relative;
 	z-index: 600;
 	top: 5px;
@@ -506,6 +506,7 @@ video{
 	border-bottom-width: 5px;
 	border-bottom-style: solid;
 	border-bottom-color: #FC3;
+	overflow: -webkit-paged-x;
 	}
 
 
@@ -5620,17 +5621,6 @@ font-Weight:400;
 	text-shadow: #000 1px 1px 20px;
 	}
 
-	#mainmenuleft{
-	width: 100%;
-	height: 90px;
-	background:white;
-	position: fixed;
-	display: block;
-	color: #301803;
-	z-index: 20100;
-
-	}
-
 	#mainbanner{
 	height: auto;
 	width: 100%;
@@ -5703,6 +5693,7 @@ font-Weight:400;
 
     .toggle-nav {
 	padding: 15px;
+	padding-top: 10px;
 	float: left;
 	width: 20px;
 	display: inline-block;
@@ -5717,7 +5708,6 @@ font-Weight:400;
     .toggle-nav:hover, .toggle-nav.active {
 	text-decoration: none;
 	color: #CC3300;
-	padding:15px;
     }
 
     .search-form {
@@ -7082,7 +7072,7 @@ font-Weight:400;
 	width: 100%;
 	height: 1200px;
 	position: relative;
-	background-color: #333;
+	background-color: white;
 	background-position: center center;
 	font-family: "Raleway Regular";
 	color: #FFF;
@@ -7093,7 +7083,7 @@ font-Weight:400;
 	position: relative;
 	text-align: center;
 	font-family: "Raleway Regular";
-	color: #FFF;
+	color: black;
 	float: none;
 	font-size: 24px;
 	margin-right: auto;
@@ -7101,7 +7091,7 @@ font-Weight:400;
 	top: 100px;
 	border-radius: 20px;
 	border: none;
-	background-color: #1B1B1B;
+	background-color: white;
 	}
 
 #contactorightin{
@@ -7110,14 +7100,13 @@ font-Weight:400;
 	position: relative;
 	text-align: center;
 	font-family: "Raleway Regular";
-	color: #FFF;
+	color: black;
 	float: none;
 	font-size: 20px;
 	margin-right: auto;
 	margin-left: auto;
-	text-shadow: #333 1px 1px 1px;
 	top: 120px;
-	background: rgba(0,0,0,0.7);
+	background: white;
 	}
 
 
@@ -7379,7 +7368,7 @@ font-Weight:400;
 	padding-right: 30px;
 	padding-bottom: 5px;
 	padding-left: 30px;
-	color: #FFF;
+	color: black;
 	font-family: "Raleway Regular";
 
 }
