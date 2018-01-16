@@ -3,15 +3,66 @@
 @import url("../../../webfonts/Lato_Thin/stylesheet.css");
 @import url("../../../webfonts/Raleway_Regular/stylesheet.css");
 
+/* ***** Inicio Divs y listas en Contacto ***** */
+/* Diseno de los botones para cambiar de Div */
+.flip{
+  border-style: solid;
+  border-color: #ffe000;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-left-width: 1px;
+  border-bottom-width: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
 
+/* Div's ocultos */
+.panel{
+    display:none;
+}
 
-/*DESKTOP CSS*/
+/* Lista Horizontal */
+nav ul li{
+  display:inline;
+}
+
+/* Sobreescribe .panel para que sea el que se muestre por default */
+#panel1{
+  display: block;
+}
+
+/* Elimina margen entre elementos y que se muestre contiguo */
+#h2contact-rewrite{
+  margin-top: 0px!important;
+  margin-bottom: 0px!important;
+}
+
+#ulcontact-rewrite{
+  list-style-type:none;
+  margin-bottom: 0px!important;
+}
+
+#contact-lessmargin{
+  margin: 12px;
+  font-size: 18px;
+}
+
+/* No color en tabs de contacto */
+nav ul li a{
+  color:black;
+  text-decoration:none;
+}
+
+.flip:hover{
+  background-color: #ffe000;
+}
+/* ***** Fin Divs y listas en Contacto ***** */
 
 
 /* CSS Document */
 
 .toggle-nav {
-    display:none;
+  display:none;
 }
 
 html{
