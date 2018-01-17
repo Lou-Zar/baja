@@ -114,6 +114,28 @@ nav ul li a{
   font-size: 50px;
   color: #666;
   }
+
+
+#productosregaderastxt{
+	width: 95%;
+	margin-left: auto;
+	position: relative;
+	z-index: 600;
+	float: none;
+	text-align: center;
+	top: 10px;
+	font-family: "Lato Thin";
+	font-size: 15px;
+	color: #000;
+	margin-right: auto;
+	font-weight: bolder;
+  padding-top: 10px;
+  padding-bottom: 10px;
+	}
+
+#productosregaderastxt:hover{
+	background:#FC3;
+	}
 /* ***** Fin Insumos ***** */
 /* CSS Document */
 
