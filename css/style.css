@@ -16,6 +16,12 @@
   padding-right: 5px;
 }
 
+@media only screen and (min-width:200px) and (max-width: 450px){
+  .flip{
+    font-size: 16.7px;
+  }
+}
+
 /* Div's ocultos */
 .panel{
     display:none;
@@ -40,6 +46,7 @@ nav ul li{
 #ulcontact-rewrite{
   list-style-type:none;
   margin-bottom: 0px!important;
+  padding-left: 0px;
 }
 
 #contact-lessmargin{
@@ -1300,6 +1307,51 @@ video{
       width: 50%;
     }
   }
+
+  #listacat{
+width: 14.2%;
+margin-left: auto;
+float: left;
+text-align: center;
+font-family: "Lato Thin";
+font-size: 16px;
+color: #000;
+margin-right: auto;
+font-weight: bolder;
+}
+
+#imglistacat{
+width: 90%;
+margin-left: auto;
+color: #000;
+margin-right: auto;
+height:180px;
+display:flex;
+align-items: center;
+}
+
+@media only screen and (min-width:200px) and (max-width: 599px){
+  #listacat {
+    width: 33.3%;
+  }
+
+  #imglistacat {
+    height:150px;
+  }
+}
+
+@media only screen and (min-width:600px) and (max-width: 950px){
+  #listacat {
+    width: 25%;
+  }
+
+  #imglistacat {
+    height:175px;
+  }
+}
+
+
+
 
 	#consultoriabox{
 	width: 47%;
